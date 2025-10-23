@@ -1,4 +1,3 @@
-// const imagemVisualizacao = document.getElementById("visualizacao");
 const imagemVisualizacao = document.querySelector("#visualizacao img");
 const tituloProduto = document.querySelector("h1");
 const nomeCorSelecionada = document.querySelector("#nome-cor-selecionada");
